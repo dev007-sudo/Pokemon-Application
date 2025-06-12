@@ -10,7 +10,7 @@ A fun and responsive Pokémon website built using **React, HTML, CSS, and JavaSc
 ## 📸 Screenshots
 
 ### Homepage View  
-![Home](./pokesc1.PNG)
+![Home](https://github.com/dev007-sudo/Pokemon-Application/blob/main/pokemonsc1.PNG)
 
 ### Pokémon Cards Display  
 ![Cards](./pokesc2.PNG)
