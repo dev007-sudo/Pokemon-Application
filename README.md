@@ -13,7 +13,7 @@ A fun and responsive Pokémon website built using **React, HTML, CSS, and JavaSc
 ![Home](https://github.com/dev007-sudo/Pokemon-Application/blob/main/pokemonsc1.PNG)
 
 ### Pokémon Cards Display  
-![Cards](./pokesc2.PNG)
+![Cards](https://github.com/dev007-sudo/Pokemon-Application/blob/main/pokemonsc2.PNG)
 
 ### Error or Loading State (Optional)  
 ![Error](./pokesc3.PNG)
